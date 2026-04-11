@@ -34,26 +34,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightmooncake&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=nightmooncake&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmooncake&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## ✨ About Me:
 - 🎨 UI/UX & Design Enthusiast  
 - 💻 Learning JavaScript & Web Dev  
 - 🚀 Love building cool and aesthetic projects  
 - 🎮 Gamer at heart  
 
----
 
-## 🚀 Visitors Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nightmooncake&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
