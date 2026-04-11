@@ -7,7 +7,13 @@
 </p>
 
 ---
+## ✨ About Me:
+- 🎨 UI/UX & Design Enthusiast  
+- 💻 Web Developer — coding to survive stress  
+- 🚀 Love building aesthetic projects  
+- 🎮 Gamer at heart  
 
+---
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://instagram.com/bytebzvsn_">
@@ -45,14 +51,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmooncake&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
-
----
-
-## ✨ About Me:
-- 🎨 UI/UX & Design Enthusiast  
-- 💻 Web Developer — coding to survive stress  
-- 🚀 Love building aesthetic projects  
-- 🎮 Gamer at heart  
 
 ---
 
