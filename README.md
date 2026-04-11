@@ -1,5 +1,4 @@
-<!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Observe. Learn. Code. Repeat.!&fontSize=40&fontColor=ffffff" />
+
 
 <!-- Typing Animation -->
 <p align="center">
@@ -42,3 +41,17 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nightmooncake&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=nightmooncake&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmooncake&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
