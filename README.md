@@ -1,8 +1,4 @@
 
-
-<!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Bezeeetttt+👋;Web+Developer+—+coding+to+survive+stress." />
