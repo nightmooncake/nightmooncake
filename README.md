@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,js,figma,github,gitlab" />
 </p>
