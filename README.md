@@ -50,10 +50,10 @@
 
 ---
 
-## 📈 Network Contribs (Weaving the Grid)
+## 📈 <span style="color: #FF003C;">Network Contribs (Weaving the Grid)</span>
 
 <p align="center">
-  <!-- GitHub Snake Animation (Merayap di grid kontribusi seperti laba-laba) -->
+  <!-- GitHub Snake Animation (Merah Terang) -->
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Spider Grid" />
 </p>
 
