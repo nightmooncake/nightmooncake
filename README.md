@@ -12,14 +12,13 @@
 - 🌱 I’m currently learning **Kotlin & Jetpack Compose**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Android, Java, Kotlin**
-- 📫 How to reach me **emailkamu@gmail.com**
+- 📫 How to reach me **blazhrh@gmail.com**
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://instagram.com/username" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://wa.me/62xxx" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-<a href="mailto:emailkamu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.instagram.com/nbilaaa_zhrh?igsh=OWo1OTVkeXo0MjF4" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://wa.me/6281337007513" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="mailto:blazhrh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -28,22 +27,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME_KAMU&theme=tokyonight&hide_border=true&layout=compact" alt="top langs" />
 </p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight&no-frame=true&no-bg=true" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-
----
-<p align="center">⭐️ From <a href="https://github.com/USERNAME_KAMU">USERNAME_KAMU</a></p>
