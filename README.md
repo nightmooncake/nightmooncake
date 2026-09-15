@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e60012,100:0d1117&height=190&section=header&text=&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descAlignY=65&descSize=18&animation=fadeIn" width="100%" alt="EDSON Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e60012,100:0d1117&height=190&section=header&text=&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%20&descAlignY=65&descSize=18&animation=fadeIn" width="100%" alt="EDSON Software Developer"/>
 
 <br>
 
@@ -123,20 +123,7 @@ and
 </blockquote>
 
 <br>
-
-<!-- ====================================================== -->
-
-<!--                  CONTRIBUTIONS                         -->
-
-<!-- ====================================================== -->
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/📊_MY_CONTRIBUTIONS-e60012?style=for-the-badge&labelColor=0d1117" alt="Contributions"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Glauedson&bg_color=0d1117&color=e60012&line=e60012&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
