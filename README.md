@@ -79,20 +79,14 @@ and
 
 <td align="center">
 
-<h2>📝 Lembra-Plus</h2>
+<h2>ABOUT ME : </h2>
 
 <p>
-<b>Note Taking Application</b>
+N! Mazor£67-Isth, Maverick Records havoc: Spartan inferno`
 </p>
 
 <p>
-A note-taking application for creating,
-editing and organizing memos.
-</p>
-
-<p>
-Built with a clean interface and
-local data persistence.
+storm rider (! hammer nitro) Noise record:89' Role-st. blount£'s
 </p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
