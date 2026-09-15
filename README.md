@@ -6,16 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2800&pause=900&color=E60012&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER;FULL+STACK+ENTHUSIAST;FRONT+END+DEVELOPER;MOBILE+DEVELOPER;BUILDING+IDEAS+INTO+SYSTEMS" alt="Typing Animation"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/⭐_STARS-29-e60012?style=for-the-badge&labelColor=0d1117" alt="Stars"/>
-<img src="https://img.shields.io/badge/🍴_FORKS-4-e60012?style=for-the-badge&labelColor=0d1117" alt="Forks"/>
-<img src="https://img.shields.io/badge/👥_FOLLOWERS-32-e60012?style=for-the-badge&labelColor=0d1117" alt="Followers"/>
-
-</div>
-
-<br>
-
 
 <table width="100%">
 <tr>
@@ -201,23 +191,11 @@ local data persistence.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=E60012&center=true&vCenter=true&width=700&lines=CREATE.;LEARN.;BUILD.;BREAK.;FIX.;REPEAT." alt="Developer Mindset Animation"/>
-
-<br><br>
-
 </div>
 
-<br>
-
-<!-- ====================================================== -->
-
-<!--                       FOOTER                           -->
-
-<!-- ====================================================== -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e60012,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
-
-<br>
 
 </div>
