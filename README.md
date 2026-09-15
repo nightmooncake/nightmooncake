@@ -80,8 +80,18 @@ and
 <td align="center">
 
 >
-        <p style="margin:5px 0 10px; font-size:14px;">A note-taking application for creating, editing and organizing memos — built with a fast, clean interface and local data persistence.</p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+<h2>ABOUT ME : </h2>
+
+<p>
+N! Mazor£67-Isth, Maverick Records havoc: Spartan inferno`
+</p>
+
+<p>
+storm rider (! hammer nitro) Noise record:89' Role-st. blount£'s
+</p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
 </td>
 
 </tr>
