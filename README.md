@@ -84,10 +84,10 @@ and
 Web Developer</h2>
 
 <p>
-A software or website developer capable of working on both the front-end </p>
+A professional responsible for creating, designing, developing, and maintaining</p>
 
 <p>
-memos — built with a fast, clean interface and local data persistence.</p>
+ websites to ensure they function properly and stably.</p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
