@@ -198,88 +198,11 @@ local data persistence.
 </table>
 
 <br>
-
-<!-- ====================================================== -->
-
-<!--                  DEVELOPER STATS                       -->
-
-<!-- ====================================================== -->
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/📈_DEVELOPER_STATS-e60012?style=for-the-badge&labelColor=0d1117" alt="Developer Stats"/>
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="33%">
-
-<h2>573</h2>
-
-<b>TOTAL CONTRIBUTIONS</b>
-
-<br>
-
-<sub>Sep 12, 2024 – Mar 14, 2025</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>2</h2>
-
-<b>CURRENT STREAK</b>
-
-<br>
-
-<sub>Mar 13 – Mar 14</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>42</h2>
-
-<b>LONGEST STREAK</b>
-
-<br>
-
-<sub>Feb 1, 2025 – Mar 14, 2025</sub>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                 DEVELOPER MINDSET                      -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎴_DEVELOPER_MINDSET-e60012?style=for-the-badge&labelColor=0d1117" alt="Developer Mindset"/>
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=E60012&center=true&vCenter=true&width=700&lines=CREATE.;LEARN.;BUILD.;BREAK.;FIX.;REPEAT." alt="Developer Mindset Animation"/>
 
 <br><br>
-
-<p>
-<i>
-"The world changes when someone decides to build something."
-</i>
-</p>
 
 </div>
 
@@ -296,17 +219,5 @@ local data persistence.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e60012,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 <br>
-
-<img src="https://img.shields.io/badge/EDSON-·_Software_Developer-e60012?style=for-the-badge&labelColor=0d1117" alt="EDSON Software Developer"/>
-
-<br><br>
-
-<i>
-Built with practice, curiosity & persistence.
-</i>
-
-<br><br>
-
-🎭 • 💻 • 🚀
 
 </div>
