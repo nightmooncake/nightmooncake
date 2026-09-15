@@ -94,34 +94,6 @@ design to implementation and delivery.
 
 <div align="center">
 
-<h2>🌐 CONNECT WITH ME</h2>
-
-<p>
-<i>Enter the network. Find the developer behind the code.</i>
-</p>
-
-<br>
-
-<a href="https://pinterest.com" target="_blank">
-<img src="https://img.shields.io/badge/PINTEREST-e60012?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=0d1117" alt="Pinterest"/>
-</a>
-
- 
-
-<a href="https://linkedin.com" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-e60012?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-
- 
-
-<a href="mailto:glauedson.dev@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-e60012?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
-</a>
-
-</div>
-
-<br>
-
 <!-- ====================================================== -->
 
 <!--                    CAUTION                              -->
