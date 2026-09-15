@@ -20,51 +20,6 @@
 
 </td>
 
-<td width="62%" valign="top">
-
-<h2>🎭 WHO AM I?</h2>
-
-<p>
-I am a graduated <b>Software Developer</b> with a degree in
-Systems Analysis and Development, currently working as a freelancer
-while actively seeking an opportunity in the technology field.
-</p>
-
-<p>
-My professional journey is driven by
-<b>continuous learning</b>, practical experience, and a strong
-commitment to delivering complete and functional systems for
-real-world needs.
-</p>
-
-<p>
-Over time, I have developed solid experience across the web
-development ecosystem, with a strong passion for
-<b>Front-End Development</b>, where logic meets creativity and
-visual design.
-</p>
-
-<p>
-Alongside web technologies, I have expanded my skills into
-mobile development using <b>Android Studio</b> and
-<b>React Native</b>.
-</p>
-
-<p>
-At the moment, I am working as a freelancer, developing complete
-systems for companies in my city — from planning and interface
-design to implementation and delivery.
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-FREELANCER-e60012?style=for-the-badge&labelColor=0d1117" alt="Freelancer"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK-e60012?style=for-the-badge&labelColor=0d1117" alt="Full Stack"/>
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
