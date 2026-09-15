@@ -10,17 +10,6 @@
 <table width="100%">
 <tr>
 
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ5Z3F2bGJqYnR5eGZ5Z3F2bGJqYnR5eGZ5Z3F2bGJqYnR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="280" alt="Anime Character"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/✦_PHANTOM_MODE-ACTIVE-e60012?style=for-the-badge&labelColor=0d1117" alt="Phantom Mode"/>
-
-</td>
-
-
 <br>
 
 <div align="center">
