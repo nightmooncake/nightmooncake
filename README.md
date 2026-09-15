@@ -80,11 +80,11 @@ and
 <td align="center">
 
 >
-<h2>Lembra-Plus-note-app</h2>
+<h2>
+Web Developer</h2>
 
 <p>
-A note-taking application for creating, editing and organizing 
-</p>
+A software or website developer capable of working on both the front-end </p>
 
 <p>
 memos — built with a fast, clean interface and local data persistence.</p>
